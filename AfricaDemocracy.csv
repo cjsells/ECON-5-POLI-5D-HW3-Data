@@ -1,0 +1,45 @@
+Country,CCode,Democracy.1960s,Democracy.1970s,Democracy.1980s,Democracy.1990s,Colonizer
+Algeria,DZA,-8.625,-9,-8.3,-3.9,France
+Angola,AGO,NA,-7,-7,-4,Portugal
+Benin,BEN,-3.625,-6,-7,6,France
+Botswana,BWA,7,8.8,9,9,UK
+Burkina Faso,BFA,-6.9,-2,-7,-4.3,France
+Burundi,BDI,-4.85714285714286,-7,-7,-4.83333333333333,Belgium
+Cameroon,CMR,-6.4,-7.8,-7.9,-4.8,France
+Central African Republic,CAF,-7,-7,-7,2.3,France
+Chad,TCD,-9,-8.25,-7,-3.44444444444444,France
+Congo,COG,-3.7,-7.1,-8,-0.111111111111111,Belgium
+Djibouti,DJI,NA,-8,-8,-5.9,France
+Egypt,EGY,-7,-6.6,-5.1,-3.3,UK
+Equatorial Guinea,GNQ,-1,-7,-7,-5.6,Spain
+Ethiopia,ETH,-9,-7.88888888888889,-7.6,-0.5,None
+Gabon,GAB,-7.4,-9,-9,-4,France
+Gambia,GMB,8,8,7.1,-0.3,UK
+Ghana,GHA,-8.11111111111111,-3.33333333333333,-5.55555555555556,-0.333333333333333,UK
+Guinea,GIN,-9,-9,-7.8,-3.2,France
+Guinea-Bissau,GNB,NA,-7,-7.6,-0.5,Portugal
+Kenya,KEN,-0.142857142857143,-6.9,-6.8,-4.3,UK
+Lesotho,LSO,9,-7.6,-7,2.375,UK
+Liberia,LBR,-6,-6,-6.4,0,None
+Libya,LBY,-7,-7,-7,-7,Italy
+Madagascar,MDG,-1,-4.1,-6,6.77777777777778,France
+Malawi,MWI,-9,-9,-9,0.7,UK
+Mali,MLI,-7,-7,-7,4.88888888888889,France
+Mauritania,MRT,-6.4,-7,-7,-6.1,France
+Morocco,MAR,-6.4,-8.7,-8,-7,France
+Mozambique,MOZ,NA,-8,-7.6,1.1,Portugal
+Niger,NER,-7,-7,-7,1.22222222222222,France
+Nigeria,NGA,1.8,-5.44444444444444,-1.2,-4.77777777777778,UK
+Rwanda,RWA,-5,-6.4,-7,-6.11111111111111,Belgium
+Senegal,SEN,-5.66666666666667,-5.6,-1.1,-1,France
+Sierra Leone,SLE,3.44444444444444,-5.5,-7,-5.28571428571429,UK
+Somalia,SOM,5.6,-7,-7,-7,Italy
+South Africa,ZAF,4,4,4,8,UK
+Sudan,SDN,0,-7,-2.33333333333333,-7,UK
+Swaziland,SUR,0,-7,-10,-9.3,UK
+Tanzania,TZA,-7,-7,-7,-3.7,UK
+Togo,TGO,-6.3,-7,-7,-2.625,France
+Tunisia,TUN,-9,-8.9,-7.2,-3.6,France
+Uganda,UGA,1.28571428571429,-7,-1.44444444444444,-4,UK
+Zambia,ZMB,1.33333333333333,-7.2,-9,2.5,UK
+Zimbabwe,ZWE,NA,4,0.1,-6,UK
